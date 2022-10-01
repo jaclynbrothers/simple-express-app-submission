@@ -1,7 +1,7 @@
 # BookMarks: Reading Notes
 This project allows the user to create, edit, save, and delete their notes for upcoming book reports and tests.
 
-**Link to project:** 
+**Link to project:** https://bookmarks-api-r8fe.onrender.com
 
 ## How It's Made
 
@@ -38,4 +38,28 @@ Photo of Student from colorlib.com
 
 ## Other Projects
 
-**Coming Soon**
+<table bordercolor="#66b2b2">
+  <tr>
+    <td width="33.3%"  style="align:center;" valign="top">
+	<a target="_blank" href="https://github.com/jaclynbrothers/squawk-space">Squawk Space</a>
+    	<br>
+    	<a target="_blank" href="https://github.com/jaclynbrothers/squawk-space">
+    	<img src="https://media.giphy.com/media/7dsiIBgG8OuU95SUvF/giphy.gif" width="100%"  alt="Squawk Space">
+        </a>
+    </td>
+    <td width="33.3%" valign="top">
+	<a target="_blank" href="https://github.com/jaclynbrothers/artist-portfolio">Artist Portfolio</a>
+      	<br>
+        <a target="_blank" href="https://github.com/jaclynbrothers/artist-portfolio">
+          <img src="https://media.giphy.com/media/OtZnHQvpwaGOxKxoi1/giphy.gif" width="100%" alt="Artist Portfolio Website">
+        </a>
+    </td>
+    <td width="33.3%" valign="top">
+	<a target="_blank" href="https://github.com/jaclynbrothers/movie-recommendations-api">Movie Recommendations API</a>
+        <br>
+        <a target="_blank" href="https://github.com/jaclynbrothers/movie-recommendations-api">
+          <img src="https://media.giphy.com/media/MkNt7t4yHfgI8bnwF9/giphy.gif" width="100%" alt="Movie Recommendations">
+        </a>
+    </td>
+  </tr>
+</table>
