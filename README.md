@@ -3,6 +3,8 @@ This project allows the user to create, edit, save, and delete their notes for u
 
 **Link to project:** https://bookmarks-api-r8fe.onrender.com
 
+https://user-images.githubusercontent.com/102431119/193429165-7518e219-f625-411a-95cc-bf612ff39395.mp4
+
 ## How It's Made
 
 **Tech used:** Embedded JavaScript (EJS), CSS, Node, Express, MongoDB, and deployed with Render.
